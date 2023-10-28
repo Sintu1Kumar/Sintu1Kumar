@@ -9,7 +9,7 @@
 <ul><li>Personal Projects:</li>
 <ul>
  <li>Ecommerce-Website</li>
- <li>Text Editor</li>
+ <li>Text Formatter</li>
 </ul></ul>
 <h2>🛠️ Technologies & Tools</h2>
 <ul>
