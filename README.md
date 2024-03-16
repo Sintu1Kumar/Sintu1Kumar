@@ -8,13 +8,14 @@
 <h2>💼 Current Work</h2>
 <ul><li>Personal Projects:</li>
 <ul>
- <li>Ecommerce-Website</li>
- <li>Text Formatter</li>
+ <li>Online Shopping</li>
+ <li>Expense Tracker</li>
 </ul></ul>
 <h2>🛠️ Technologies & Tools</h2>
 <ul>
  <li>HTML, CSS and JavaScript</li>
  <li>BootStrap and React JS</li>
+ <li>Node JS, Express JS, MongoDB and SQL</li>
 </ul>
 <h2>🌱 Let's Connect!</h2>
 <ul>
