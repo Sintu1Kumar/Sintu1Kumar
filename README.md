@@ -3,7 +3,7 @@
 <h2>🚀 Current Learning Goals</h2>
 <ul>
  <li>Vue JS</li>
- <li>Node JS and SQL</li>
+ <li>Node JS and MySql</li>
 </ul>
 <h2>💼 Current Work</h2>
 <ul><li>Personal Projects:</li>
@@ -14,8 +14,8 @@
 <h2>🛠️ Technologies & Tools</h2>
 <ul>
  <li>HTML, CSS and JavaScript</li>
- <li>BootStrap, React JS, Vue JS</li>
- <li>Node JS, Express JS, MongoDB and SQL</li>
+ <li>React JS, Vue JS, Bootstrap, Tailwind CSS</li>
+ <li>Node JS, Express JS, MongoDB and MySql</li>
 </ul>
 <h2>🌱 Let's Connect!</h2>
 <ul>
